@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=CRomao)
+![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cromao/)
+![](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:croamo.dev@gmail.com)
+
+
 <!--
 **CRomao/CRomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
